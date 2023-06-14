@@ -1,4 +1,4 @@
-module github.com/apourchet/httpwrap
+module github.com/algoexpert-io/httpwrap
 
 go 1.12
 
