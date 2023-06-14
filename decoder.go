@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/apourchet/httpwrap/internal"
+	"github.com/algoexpert-io/httpwrap/internal"
 )
 
 // Decoder is a struct that allows for the decoding of http requests

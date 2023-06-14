@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/apourchet/httpwrap"
+	"github.com/algoexpert-io/httpwrap"
 	"github.com/gorilla/mux"
 )
 
